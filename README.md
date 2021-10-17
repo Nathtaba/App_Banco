@@ -1,10 +1,10 @@
-#Aplicação de Transferências Bancárias
+# Aplicação de Transferências Bancárias
 
-<br>##Algoritmo simples de transferência bancária.<br/>
+## Algoritmo simples de transferência bancária.<br/>
 
 _________________________________________________________
 
-######AppBanco a seu dispor!!!
+###### AppBanco a seu dispor!!!
         
 Informe a opção desejada
 1- Listar contas
