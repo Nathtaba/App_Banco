@@ -1,0 +1,16 @@
+C:\Users\natal\Desktop\Udemy\C#\AppBanco\bin\Debug\net5.0\AppBanco.exe
+C:\Users\natal\Desktop\Udemy\C#\AppBanco\bin\Debug\net5.0\AppBanco.deps.json
+C:\Users\natal\Desktop\Udemy\C#\AppBanco\bin\Debug\net5.0\AppBanco.runtimeconfig.json
+C:\Users\natal\Desktop\Udemy\C#\AppBanco\bin\Debug\net5.0\AppBanco.runtimeconfig.dev.json
+C:\Users\natal\Desktop\Udemy\C#\AppBanco\bin\Debug\net5.0\AppBanco.dll
+C:\Users\natal\Desktop\Udemy\C#\AppBanco\bin\Debug\net5.0\ref\AppBanco.dll
+C:\Users\natal\Desktop\Udemy\C#\AppBanco\bin\Debug\net5.0\AppBanco.pdb
+C:\Users\natal\Desktop\Udemy\C#\AppBanco\obj\Debug\net5.0\AppBanco.csproj.AssemblyReference.cache
+C:\Users\natal\Desktop\Udemy\C#\AppBanco\obj\Debug\net5.0\AppBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Desktop\Udemy\C#\AppBanco\obj\Debug\net5.0\AppBanco.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\Udemy\C#\AppBanco\obj\Debug\net5.0\AppBanco.AssemblyInfo.cs
+C:\Users\natal\Desktop\Udemy\C#\AppBanco\obj\Debug\net5.0\AppBanco.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\Udemy\C#\AppBanco\obj\Debug\net5.0\AppBanco.dll
+C:\Users\natal\Desktop\Udemy\C#\AppBanco\obj\Debug\net5.0\ref\AppBanco.dll
+C:\Users\natal\Desktop\Udemy\C#\AppBanco\obj\Debug\net5.0\AppBanco.pdb
+C:\Users\natal\Desktop\Udemy\C#\AppBanco\obj\Debug\net5.0\AppBanco.genruntimeconfig.cache
