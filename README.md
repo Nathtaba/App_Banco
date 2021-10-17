@@ -1,4 +1,4 @@
-# Aplicação de Transferências Bancárias
+# APP BANCO
 
 ## Algoritmo simples de transferência bancária.<br/>
 
