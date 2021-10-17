@@ -4,13 +4,13 @@
 
 _________________________________________________________
 
-###### AppBanco a seu dispor!!!
+### AppBanco a seu dispor!!!
         
 Informe a opção desejada
 <br>1- Listar contas<br/>
-2- Informar nova conta
-3- Transferir
-4- Sacar
-5- Depositar
-C- Limpar Tela
-X- Sair
+<br>2- Informar nova conta<br/>
+<br>3- Transferir<br/>
+<br>4- Sacar<br/>
+<br>5- Depositar<br/>
+<br>C- Limpar Tela<br/>
+<br>X- Sair<br/>
